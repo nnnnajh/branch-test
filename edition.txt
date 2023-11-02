@@ -4,3 +4,4 @@ third edition
 <<<<<<< HEAD
 issue resolved
 hotfix my solution
+New function added
